@@ -9,12 +9,9 @@ Python (pandas, matplotlib, seaborn) (EDA, visualization, additional insights)
 GitHub portfolio building
 
 🛠️ Tools & Technologies
-SQL Server 2022 (T-SQL)
-Python 3.x
-pandas
-matplotlib
-seaborn
-GitHub for portfolio presentation
+1. SQL Server 2022 (T-SQL)
+2. Python 3.x (pandas, matplotlib, seaborn)
+3. GitHub for portfolio presentation
 
 ✅ SQL Analysis Highlights
 The SQL analysis answers key business questions such as:
